@@ -1,3 +1,2 @@
 # dateexample
-
-Eğitim amaçlı provider kullanımı ve apiden veri çekme yapısı hazırlanmıştır.
+Eğitim amaçlı flutter tanıtımı, basit provider kullanımı ve apiden veri çekme yapısı hazırlanmıştır.
